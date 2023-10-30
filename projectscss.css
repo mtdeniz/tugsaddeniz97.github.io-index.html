@@ -1,0 +1,19 @@
+.background {
+    background-color: black;
+    height: 100vh;
+    padding: 300px;
+}
+
+.projects {
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.hizala {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}

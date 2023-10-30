@@ -1,0 +1,23 @@
+.background {
+  background: #000000;
+  height: 100%;
+}
+
+.card-img-top {
+  width: 100%;
+  height:400px;
+}
+.footer {
+  background: black;
+}
+
+.btn-outline-light {
+  --bs-btn-hover-bg: black;
+  --bs-btn-hover-border-color: black;
+
+}
+
+.btn-outline-danger {
+  --bs-btn-hover-bg: #F5F5F5;
+  --bs-btn-hover-border-color: red;
+}
